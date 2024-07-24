@@ -73,7 +73,7 @@ header("location:user?page=dashboard");
 <input type="hidden" name="submit" value="1">
 <div class="text-center mb-2">
 <button id="sub_btn" type="submit" class="btn btn-primary">
-<i class="fa fa-fw fa-sign-in-alt opacity-50 me-1"></i> Sign In
+<i class="fa fa-fw fa-sign-in-alt opacity-50 me-1"></i> Log In
 </button>
 
 <p class="mt-2 mb-0 d-lg-flex justify-content-lg-between">
